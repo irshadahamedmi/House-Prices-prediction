@@ -1,0 +1,10 @@
+####Algorithm
+Aquier Dataset (kaggle datase)
+Fill null values of dataset
+Identify ineffective features
+Feature Engineering(Dummy Trapping, row wise concatenation)
+Train Model
+Test Model
+Predication
+Export result 
+
